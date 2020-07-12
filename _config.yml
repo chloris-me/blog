@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Blog
-description: The way to find a question and the answer to that question myself.
+title: wAIz 
+description: The way to find a question and the answer to that question myself about AI, ML, NLP.
 github_username: chloris-me
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
